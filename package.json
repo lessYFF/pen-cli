@@ -1,0 +1,34 @@
+{
+  "name": "pen-cli",
+  "version": "0.0.1",
+  "description": "a multifunctional cli",
+  "keywords": [
+    "H5",
+    "PC",
+    "App",
+    "Mini Program",
+    "Desktop App"
+  ],
+  "author": "lessYFF",
+  "homepage": "https://github.com/lessYFF/pen-cli",
+  "license": "MIT",
+  "main": "index.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lessYFF/pen-cli.git"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "bugs": {
+    "url": "https://github.com/lessYFF/pen-cli/issues"
+  }
+}
